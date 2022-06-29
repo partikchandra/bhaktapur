@@ -4238,8 +4238,8 @@ textarea.form-control-lg {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 1 rem;
-    padding-left: 0.5rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
   }
   .navbar-expand-lg .navbar-nav-scroll {
     overflow: visible;
@@ -12106,7 +12106,7 @@ a.tip:hover span {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: left;
   }
   .sidebar-gallary{
     bottom: 0;
